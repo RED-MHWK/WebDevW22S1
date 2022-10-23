@@ -9,7 +9,7 @@ html, body {
 
 
 
-/****** StandartSizes ******/
+/******************** StandartSizes ********************/
 
 /*** Viewpoint Width ***/
 .w5 {width: 5vw;}
@@ -55,7 +55,7 @@ html, body {
 .h95 {height: 95vh;}
 .h100 {height: 100vh;}
 
-/****** Exotic Sizes ******/
+/******************** Exotic Sizes ********************/
 
 /*** Width by Height ***/
 .wh5 {width: 5vh;}
@@ -101,6 +101,9 @@ html, body {
 .hw95 {height: 95vw;}
 .hw100 {height: 100vw;}
 
+/*** Calc Sizes ***/
+.cH3 {height: calc(100vh / 3);}
+.cW3 {widht: calc(100vw / 3);}
 
 
 /****** Colors ******/
@@ -117,11 +120,11 @@ html, body {
 .bgcolor3 {background-color: rgb(5, 177, 5);}
 .bgcolor4 {background-color: rgb(108, 7, 190);}
 .bgcolor5 {background-color: rgb(177, 177, 177);}
-.bgcolor6 {background-color: rgb(0, 0, 0);}
+.bgcolor6 {background-color: rgb(17, 17, 17);}
 
 
 
-/****** Spacer ******/
+/******************** Spacer ********************/
 
 /*** Top ***/
 .spacerT1 {margin-top: 1rem;}
@@ -173,17 +176,37 @@ html, body {
 
 
 
-/****** Shadows ******/
+/******************** Shadows ********************/
 .shadow1 {box-shadow: 5px 5px 10px 0 #e7e7e7}
 .shadow2 {box-shadow: 5px 5px 10px 0 #a0a0a0}
 .shadow3 {box-shadow: 5px 5px 10px 0 #131313}
-.shadow4 {box-shadow: 5px 5px 10px 0 #4d4d4d}
+.shadow4 {box-shadow: 5px 5px 10px 0 #000000}
 
 
 
-/****** FontSize ******/
+/******************** FontSize ********************/
 .fSize1 {font-size: 1rem;}
 .fSize2 {font-size: 2rem;}
 .fSize3 {font-size: 3rem;}
 .fSize4 {font-size: 4rem;}
 .fSize5 {font-size: 5rem;}
+
+
+
+/******************** Positions ********************/
+
+/*** Position States ***/
+.absolute{position: absolute;}
+.relative{position: relative;}
+
+/*** Position ***/
+.position1{right: 0; bottom: 0;}
+.position2{right: 0; bottom: 0;}
+.position3{right: 0; bottom: 0;}
+.position4{right: 0; bottom: 0;}
+.position5{right: 0; bottom: 0;}
+.position6{right: 0; bottom: 0;}
+.position7{right: 0; bottom: 0;}
+.position8{right: 0; bottom: 0;}
+.position9{right: 0; bottom: 0;}
+.position10{right: 0; bottom: 0;}
