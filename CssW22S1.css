@@ -1,0 +1,189 @@
+/****** Css Start - Variables n important stuff ******/
+*{
+
+}
+
+html, body {
+
+}
+
+
+
+/****** StandartSizes ******/
+
+/*** Viewpoint Width ***/
+.w5 {width: 5vw;}
+.w10 {width: 10vw;}
+.w15 {width: 15vw;}
+.w20 {width: 20vw;}
+.w25 {width: 25vw;}
+.w30 {width: 30vw;}
+.w35 {width: 35vw;}
+.w40 {width: 40vw;}
+.w45 {width: 45vw;}
+.w50 {width: 50vw;}
+.w55 {width: 55vw;}
+.w60 {width: 60vw;}
+.w65 {width: 65vw;}
+.w70 {width: 70vw;}
+.w75 {width: 75vw;}
+.w80 {width: 80vw;}
+.w85 {width: 85vw;}
+.w90 {width: 90vw;}
+.w95 {width: 95vw;}
+.w100 {width: 100vw;}
+
+/*** Viewpoint Height ***/
+.h5 {height: 5vh;}
+.h10 {height: 10vh;}
+.h15 {height: 15vh;}
+.h20 {height: 20vh;}
+.h25 {height: 25vh;}
+.h30 {height: 30vh;}
+.h35 {height: 35vh;}
+.h40 {height: 40vh;}
+.h45 {height: 45vh;}
+.h50 {height: 50vh;}
+.h55 {height: 55vh;}
+.h60 {height: 60vh;}
+.h65 {height: 65vh;}
+.h70 {height: 70vh;}
+.h75 {height: 75vh;}
+.h80 {height: 80vh;}
+.h85 {height: 85vh;}
+.h90 {height: 90vh;}
+.h95 {height: 95vh;}
+.h100 {height: 100vh;}
+
+/****** Exotic Sizes ******/
+
+/*** Width by Height ***/
+.wh5 {width: 5vh;}
+.wh10 {width: 10vh;}
+.wh15 {width: 15vh;}
+.wh20 {width: 20vh;}
+.wh25 {width: 25vh;}
+.wh30 {width: 30vh;}
+.wh35 {width: 35vh;}
+.wh40 {width: 40vh;}
+.wh45 {width: 45vh;}
+.wh50 {width: 50vh;}
+.wh55 {width: 55vh;}
+.wh60 {width: 60vh;}
+.wh65 {width: 65vh;}
+.wh70 {width: 70vh;}
+.wh75 {width: 75vh;}
+.wh80 {width: 80vh;}
+.wh85 {width: 85vh;}
+.wh90 {width: 90vh;}
+.wh95 {width: 95vh;}
+.wh100 {width: 100vh;}
+
+/*** Height by Width ***/
+.hw5 {height: 5vw;}
+.hw10 {height: 10vw;}
+.hw15 {height: 15vw;}
+.hw20 {height: 20vw;}
+.hw25 {height: 25vw;}
+.hw30 {height: 30vw;}
+.hw35 {height: 35vw;}
+.hw40 {height: 40vw;}
+.hw45 {height: 45vw;}
+.hw50 {height: 50vw;}
+.hw55 {height: 55vw;}
+.hw60 {height: 60vw;}
+.hw65 {height: 65vw;}
+.hw70 {height: 70vw;}
+.hw75 {height: 75vw;}
+.hw80 {height: 80vw;}
+.hw85 {height: 85vw;}
+.hw90 {height: 90vw;}
+.hw95 {height: 95vw;}
+.hw100 {height: 100vw;}
+
+
+
+/****** Colors ******/
+.color1 {color: rgb(19, 19, 235);}
+.color2 {color: rgb(243, 0, 0);}
+.color3 {color: rgb(2, 190, 2);}
+.color4 {color: rgb(140, 0, 255);}
+.color5 {color: rgb(48, 48, 48);}
+.color6 {color: rgb(255, 255, 255);}
+
+/*** Backgroundcolors ***/
+.bgcolor1 {background-color: rgb(11, 11, 219);}
+.bgcolor2 {background-color: rgb(231, 3, 3);}
+.bgcolor3 {background-color: rgb(5, 177, 5);}
+.bgcolor4 {background-color: rgb(108, 7, 190);}
+.bgcolor5 {background-color: rgb(177, 177, 177);}
+.bgcolor6 {background-color: rgb(0, 0, 0);}
+
+
+
+/****** Spacer ******/
+
+/*** Top ***/
+.spacerT1 {margin-top: 1rem;}
+.spacerT2 {margin-top: 2rem;}
+.spacerT3 {margin-top: 3rem;}
+.spacerT4 {margin-top: 4rem;}
+.spacerT5 {margin-top: 5rem;}
+.spacerT6 {margin-top: 6rem;}
+.spacerT7 {margin-top: 7rem;}
+.spacerT8 {margin-top: 8rem;}
+.spacerT9 {margin-top: 9rem;}
+.spacerT10 {margin-top: 10rem;}
+
+/*** Left ***/
+.spacerL1 {margin-left: 1rem;}
+.spacerL2 {margin-left: 2rem;}
+.spacerL3 {margin-left: 3rem;}
+.spacerL4 {margin-left: 4rem;}
+.spacerL5 {margin-left: 5rem;}
+.spacerL6 {margin-left: 6rem;}
+.spacerL7 {margin-left: 7rem;}
+.spacerL8 {margin-left: 8rem;}
+.spacerL9 {margin-left: 9rem;}
+.spacerL10 {margin-left: 10rem;}
+
+/*** Right ***/
+.spacerR1 {margin-right: 1rem;}
+.spacerR2 {margin-right: 2rem;}
+.spacerR3 {margin-right: 3rem;}
+.spacerR4 {margin-right: 4rem;}
+.spacerR5 {margin-right: 5rem;}
+.spacerR6 {margin-right: 6rem;}
+.spacerR7 {margin-right: 7rem;}
+.spacerR8 {margin-right: 8rem;}
+.spacerR9 {margin-right: 9rem;}
+.spacerR10 {margin-right: 10rem;}
+
+/*** Bottom ***/
+.spacerB1 {margin-bottom: 1rem;}
+.spacerB2 {margin-bottom: 2rem;}
+.spacerB3 {margin-bottom: 3rem;}
+.spacerB4 {margin-bottom: 4rem;}
+.spacerB5 {margin-bottom: 5rem;}
+.spacerB6 {margin-bottom: 6rem;}
+.spacerB7 {margin-bottom: 7rem;}
+.spacerB8 {margin-bottom: 8rem;}
+.spacerB9 {margin-bottom: 9rem;}
+.spacerB10 {margin-bottom: 10rem;}
+
+
+
+/****** Shadows ******/
+.shadow1 {box-shadow: 5px 5px 10px 0 #e7e7e7}
+.shadow2 {box-shadow: 5px 5px 10px 0 #a0a0a0}
+.shadow3 {box-shadow: 5px 5px 10px 0 #131313}
+.shadow4 {box-shadow: 5px 5px 10px 0 #4d4d4d}
+
+
+
+/****** FontSize ******/
+.fSize1 {font-size: 1rem;}
+.fSize2 {font-size: 2rem;}
+.fSize3 {font-size: 3rem;}
+.fSize4 {font-size: 4rem;}
+.fSize5 {font-size: 5rem;}
